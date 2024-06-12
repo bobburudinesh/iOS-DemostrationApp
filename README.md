@@ -1,5 +1,5 @@
 # iOS-Development
-This is project is to demostrate my skills in iOS develeopment.
+This is the project is to demostrate my skills in iOS develeopment.
 
 The UI and application flow that you see is purely based on my ideas. 
 
